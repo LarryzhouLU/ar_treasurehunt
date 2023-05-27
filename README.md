@@ -11,3 +11,6 @@
  
  ## 游戏演示
  [见如下视频] (https://www.bilibili.com/video/BV18N411w7pX/)
+ 
+ ![image](https://github.com/LarryzhouLU/ar_treasurehunt/assets/89344851/d27a2f22-5b38-4bc0-8802-060120ebdb86)
+
